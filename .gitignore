@@ -3,3 +3,5 @@ dist/
 *.local
 .env
 .runtime/
+.DS_Store
+Thumbs.db
