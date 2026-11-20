@@ -5,3 +5,5 @@ dist/
 .runtime/
 .DS_Store
 Thumbs.db
+.env.local
+*.log
